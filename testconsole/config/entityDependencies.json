@@ -1,0 +1,23 @@
+{
+    "Entities": [
+        {
+            "name": "EntityA",
+            "dependencies": [
+                "EntityB",
+                "EntityC"
+            ]
+        },
+        {
+            "name": "EntityB",
+            "dependencies": [
+                "EntityD"
+            ]
+        },
+        {
+            "name": "EntityC"
+        },
+        {
+            "name": "EntityD"
+        }
+    ]
+}
