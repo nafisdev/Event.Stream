@@ -1,0 +1,18 @@
+[
+    {
+        "name": "EntityA",
+        "query": "Select * from EntityA"
+    },
+    {
+        "name": "EntityB",
+        "query": "Select * from EntityB"
+    },
+    {
+        "name": "EntityC",
+        "query": "Select * from EntityC"
+    },
+    {
+        "name": "EntityD",
+        "query": "Select * from EntityD"
+    }
+]
